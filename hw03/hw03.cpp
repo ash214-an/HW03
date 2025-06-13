@@ -8,9 +8,6 @@ private:
 	int currentSize;
 	int currentCapacity;
 
-	void resize() {
-	}
-
 
 public:
 
